@@ -1,8 +1,3 @@
-
-Here's a basic template for a GitHub README.md file for your project "SOBFISHER":
-
-markdown
-Copy code
 # SOBFISHER
 
 SOBFISHER is a script designed to simplify the process of setting up phishing websites and hosting them using the Apache service. It provides options for various websites and allows monitoring of credentials collected directly from the script. Additionally, users can save collected credentials to their desired location.

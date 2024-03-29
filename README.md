@@ -20,11 +20,13 @@ SOBFISHER is a script designed to simplify the process of setting up phishing we
 
 ``bash
    git clone https://github.com/yourusername/SOBFISHER.git``
+
 Navigate to the project directory:
 
 ``bash
 cd SOBFISHER
 ``
+
 Run the script:
 
 ``bash
